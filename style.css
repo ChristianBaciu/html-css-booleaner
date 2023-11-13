@@ -1,0 +1,34 @@
+.contenitore{
+    height: 100px;
+    width: 70%;
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-size: 50% 90%;
+}
+
+.titolo{
+    width: 800px;
+
+}
+
+.logo{
+    height: 50px;
+    width: 100%;
+    
+    
+}
+
+table{
+    background-color: blue;
+}
+
+
+tr{
+    background-color: aqua;
+    
+}
+
+th{
+    
+}
