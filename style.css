@@ -19,18 +19,28 @@ span{
     color: grey;
 }
 
-table{
-    background-color: blue;
-    width: 100%;
-}
-
-tr{
-    background-color: aqua; 
-}
-
 p{
     width: 1000px;
 }
+
+.photo{
+    color: black;
+}
+
+table{
+    width: 70%;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+
+.top{
+    background-color: #b1e4f2;
+}
+
 
 td{
     padding: 10px;
