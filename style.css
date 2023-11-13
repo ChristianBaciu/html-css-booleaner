@@ -39,6 +39,11 @@ table{
 th{
     background-color: #20a9e5;
     color: white;
+    text-align: left;
+}
+
+td{
+    width: 5px;
 }
 
 .top{
@@ -46,6 +51,13 @@ th{
 }
 
 
-td{
-    padding: 10px;
+.Lorem{
+    background-image: url(img/monitor.jpg);
+    height: 200px;
+    width: 20%;
 }
+
+
+
+
+
